@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @renzuzhi,I'm a mew guy in github.
+- 👀 I’m interested in English and computer.
+- 🌱 I’m currently learning how to run my hackinmac on my lenovo G410 PC correctly.
